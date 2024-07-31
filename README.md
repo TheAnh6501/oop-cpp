@@ -30,3 +30,5 @@ Cho hai mảng được sắp xếp theo thứ tự tăng dần được lưu tr
 Viết chương trình nhập vào một mảng N số nguyên (N < 100). Hãy kiểm tra xem N số nguyên tố đó có nguyên tố cùng nhau hay không.
 
 Lưu ý: Hai số nguyên được gọi là nguyên tố cùng nhau (Relative prime) nếu chúng có ước số chung lớn nhất bằng 1, còn N số nguyên được gọi là nguyên tố cùng nhau (pairwise relative prime) nếu bất cứ hai trong số chúng là nguyên tố cùng nhau
+
+Lưu ý 2: Đây là đề bài thầy cho nhưng định nghĩa về số nguyên tố cùng nhau nhìn hơi khác (Số nguyên tố cùng nhau là hai hoặc nhiều số nguyên tố có ước chung lớn nhất (ƯCLN) bằng 1. Nói cách khác, hai số nguyên tố a và b được gọi là nguyên tố cùng nhau khi không có số nguyên tố nào khác ngoài 1 là ước số chung của chúng.)
