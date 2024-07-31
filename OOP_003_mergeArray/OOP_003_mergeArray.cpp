@@ -54,6 +54,7 @@ int main(){
     
     int arr3[n1 + n2];
     merge(arr1, arr2, n1, n2, arr3);
+    outputFile << n1 + n2 << endl;
     for (int i = 0; i < n1 + n2; i++){
         outputFile << arr3[i] << " ";
     }

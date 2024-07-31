@@ -18,7 +18,7 @@ void max(int arr[], int n){
             max = arr[i];
         }
     }
-    cout << max;
+    cout << "Phan tu lon nhat trong mang la: " << max << endl;
 }
 void sort(int arr[], int n){
     for(int i = 0; i < n - 1; i++){
@@ -53,9 +53,13 @@ int main(){
     }
     inputFile.close();
 
+    cout << "Mang ban dau: ";
+    print(arr, n);
+    cout << "Mang sau khi dao nguoc: ";
     reverse(arr, n);
     print(arr, n);
     max(arr, n);
+    cout << "Mang sau khi sap xep: ";
     sort(arr, n);
     print(arr, n);
 
