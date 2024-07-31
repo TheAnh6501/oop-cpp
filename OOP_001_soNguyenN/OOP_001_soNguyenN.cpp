@@ -64,6 +64,12 @@ int main(){
 
     // Tim S = 1 - 1/2 + 1/3 - ... + ((-1)^n-1)/n
     float S = 1.0;
+    // float dauS = 1;
+    // for (int i = 1; i <= n; i++){
+    //     S += dauS / i;
+    //     dauS *= -1;
+    // };
+
     for (int i = 2; i <= n; i++){
         if (checkEven(i)){
             S -= 1.0 / i;
@@ -75,6 +81,12 @@ int main(){
 
     // Tim Q = 1 - 1/2 + 1/6 - ... + ((-1)^n-1/n)
     float Q = 1;
+    // float dauQ = 1;
+    // for (int i = 1; i <= n; i++){
+    //     Q += (dauQ / factorial(i));
+    //     dauQ *= -1;
+    // };
+
     for (int i = 2; i <= n; i++){
         if(checkEven(i)){
             Q -= 1.0 / factorial(i);
