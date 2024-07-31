@@ -24,3 +24,9 @@ Chú ý: File chứa các số nguyên được lưu như sau: dòng đầu là 
 ## OOP_003: Đọc hai mảng từ file text và merge:
 
 Cho hai mảng được sắp xếp theo thứ tự tăng dần được lưu trong hai file dat131.txt và dat132.txt ở cùng thư mục. Hãy viết chương trình đọc hai file này vào và một hàm merge trộn hai mảng đó sao cho sau khi trộn xong ta được một dãy sắp theo thứ tự tăng dần và ghi kết quả vào file output13.txt trong cùng thư mục
+
+## OOP_004: Số nguyên tố cùng nhau:
+
+Viết chương trình nhập vào một mảng N số nguyên (N < 100). Hãy kiểm tra xem N số nguyên tố đó có nguyên tố cùng nhau hay không.
+
+Lưu ý: Hai số nguyên được gọi là nguyên tố cùng nhau (Relative prime) nếu chúng có ước số chung lớn nhất bằng 1, còn N số nguyên được gọi là nguyên tố cùng nhau (pairwise relative prime) nếu bất cứ hai trong số chúng là nguyên tố cùng nhau
