@@ -32,3 +32,7 @@ Viết chương trình nhập vào một mảng N số nguyên (N < 100). Hãy k
 Lưu ý: Hai số nguyên được gọi là nguyên tố cùng nhau (Relative prime) nếu chúng có ước số chung lớn nhất bằng 1, còn N số nguyên được gọi là nguyên tố cùng nhau (pairwise relative prime) nếu bất cứ hai trong số chúng là nguyên tố cùng nhau
 
 Lưu ý 2: Đây là đề bài thầy cho nhưng định nghĩa về số nguyên tố cùng nhau nhìn hơi khác (Số nguyên tố cùng nhau là hai hoặc nhiều số nguyên tố có ước chung lớn nhất (ƯCLN) bằng 1. Nói cách khác, hai số nguyên tố a và b được gọi là nguyên tố cùng nhau khi không có số nguyên tố nào khác ngoài 1 là ước số chung của chúng.)
+
+## OOP_005: Xây dựng lớp phân số:
+
+Xây dựng lớp phân số với các thuộc tính dữ liệu là tử số và mẫu số (nguyên) và các phương thức khởi tạo, nhập, xuất, cộng, trừ, nhân, chia 2 phân số rút gọn. Nhập vào 1 mảng các phân số và tính tổng
