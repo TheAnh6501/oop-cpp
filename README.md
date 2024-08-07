@@ -36,3 +36,13 @@ Lưu ý 2: Đây là đề bài thầy cho nhưng định nghĩa về số nguy�
 ## OOP_005: Xây dựng lớp phân số:
 
 Xây dựng lớp phân số với các thuộc tính dữ liệu là tử số và mẫu số (nguyên) và các phương thức khởi tạo, nhập, xuất, cộng, trừ, nhân, chia 2 phân số rút gọn. Nhập vào 1 mảng các phân số và tính tổng
+
+## OOP_006: Xây dựng lớp tam giác:
+
+## OOP_007: Xây dựng lớp công nhân:
+
+Xây dựng lớp Công nhân với các thuộc tính dữ liệu: họ tên (string), hệ số lương (số thực) và phụ cấp (số nguyên) và các phương thức: hàm tạo, hàm nhập, hàm xuất, hàm tính lương = hệ số lương \* 2340 + phụ cấp. Hãy nhập vào 1 mảng các Công nhân, in thông tin của mảng vừa nhập, tìm và in ra Công nhân có lương thấp nhất
+
+## OOP_008: Xây dựng lớp Sinh viên:
+
+Xây dựng lớp Sinh viên (Họ tên, điểm thi 3 môn Toán, Anh, Lập trình C và điểm cộng - số thực) với các phương thức: khởi tạo, nhập, xuất, tính điểm xét học bổng = điểm trung bình + điểm cộng. Hãy nhập vào 1 mảng các Sinh viên sau đó in ra danh sách các sinh viên phải thi lại theo từng môn, sắp xếp và in ra danh sách sinh viên theo theo chiều giảm dần của điểm trung bình, in ra danh sách sinh viên được học bổng (lấy từ trên xuống dưới không quá 10% tổng số, không thi lại)

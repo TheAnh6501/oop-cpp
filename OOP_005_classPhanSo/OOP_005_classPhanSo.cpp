@@ -4,7 +4,7 @@ using namespace std;
 
 
 class PhanSo{
-    private:
+    private:    
         int tuSo;
         int mauSo;
     public:    
@@ -19,12 +19,7 @@ class PhanSo{
         void xuat(){
             cout << tuSo << "/" << mauSo;
         }
-
-        void rutGon(){
-            int ucln = UCLN(tuSo, mauSo);
-            tuSo /= ucln;
-            mauSo /= ucln;
-        }
+        
 };
 
 int main(){
