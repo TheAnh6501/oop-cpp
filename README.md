@@ -50,3 +50,7 @@ Xây dựng lớp Sinh viên (Họ tên, điểm thi 3 môn Toán, Anh, Lập tr
 ## OOP_009: Cán bộ lớp kế thừa sinh viên:
 
 Xây dựng lớp Sinh viên (Họ tên, điểm thi 3 môn Toán, Anh, Lập trình C) với các phương thức: khởi tạo, nhập, xuất, tính điểm xét học bổng = điểm trung bình. Hãy xây dựng thêm lớp Cán bộ lớp thừa kế lớp sinh viên có thêm 1 thuộc tính điểm cộng, điểm học bổng = điểm trung bình + điểm cộng
+
+## OOP_010: Xây dựng lớp Thời gian:
+
+Xây dựng lớp thời gian đồng thời tích hợp nạp chồng toán tử nhập, xuất, +, -, ++ tiền tố, hậu tố
