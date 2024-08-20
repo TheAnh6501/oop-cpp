@@ -46,3 +46,7 @@ Xây dựng lớp Công nhân với các thuộc tính dữ liệu: họ tên (s
 ## OOP_008: Xây dựng lớp Sinh viên:
 
 Xây dựng lớp Sinh viên (Họ tên, điểm thi 3 môn Toán, Anh, Lập trình C và điểm cộng - số thực) với các phương thức: khởi tạo, nhập, xuất, tính điểm xét học bổng = điểm trung bình + điểm cộng. Hãy nhập vào 1 mảng các Sinh viên sau đó in ra danh sách các sinh viên phải thi lại theo từng môn, sắp xếp và in ra danh sách sinh viên theo theo chiều giảm dần của điểm trung bình, in ra danh sách sinh viên được học bổng (lấy từ trên xuống dưới không quá 10% tổng số, không thi lại)
+
+## OOP_009: Cán bộ lớp kế thừa sinh viên:
+
+Xây dựng lớp Sinh viên (Họ tên, điểm thi 3 môn Toán, Anh, Lập trình C) với các phương thức: khởi tạo, nhập, xuất, tính điểm xét học bổng = điểm trung bình. Hãy xây dựng thêm lớp Cán bộ lớp thừa kế lớp sinh viên có thêm 1 thuộc tính điểm cộng, điểm học bổng = điểm trung bình + điểm cộng
